@@ -1,0 +1,18 @@
+
+df= pd.DataFrame({
+               
+        'name':pd.Series(['Ahmed','Moh','Amjad','Khaled']),
+        'age': pd.Series([10,20,30,40]),
+        'height':pd.Series([100.5,180.5,183.6,170.5])
+        })
+
+
+"""
+Find:
+    
+    -Sum of Age
+    -min and max hieght
+    -show the first 2 rows
+	-Age of Ahmed
+
+"""
