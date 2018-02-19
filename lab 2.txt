@@ -1,0 +1,7 @@
+Lab 2
+
+* Read the file "automobile.csv"
+* Impute the nulls
+* Transform categorical variables to numbers
+* Store the resulting data frame into a csv file called "automobile_filtered.csv"
+* Find the sum of the stroke for every make
