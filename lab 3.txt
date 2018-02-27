@@ -1,0 +1,10 @@
+For the Advertising Data Perform the following:
+=> Train a Linear Regression Model
+=> Split the data to train and test randomly, test using 33% of the data
+=> Test the model and Report the RMSE
+
+
+For the Automobile Data Perform the Following:
+=> Train a Linear Regression Model
+=> Split the data to train and test randomly, test using 40% of the data
+=> Test the model and Report the RMSE
