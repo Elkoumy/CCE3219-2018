@@ -1,0 +1,8 @@
+
+For the iris dataset 
+* Make a logistic regression
+* evaluate the model using train test split and accuracy score
+
+For the iris dataset
+* Make a logistic regression
+* Evaluate the model using 5-fold cross validation and accuracy score
